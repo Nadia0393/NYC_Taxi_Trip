@@ -165,7 +165,14 @@ Evaluation
 | R² Score | 0.589 |
 
 ---
+## Impact
 
+- Processed 1.45 million NYC taxi trips using PySpark.
+- Engineered a Haversine distance feature that became the most influential predictor (62.5% importance).
+- Improved prediction performance by removing only 0.15% of unrealistic records.
+- Built an end-to-end Spark ML pipeline from data ingestion through model evaluation
+
+---
 ## ⭐ Feature Importance
 
 | Feature | Importance |
