@@ -188,6 +188,7 @@ Evaluation
 | Passenger Count | <0.1% |
 | Vendor | <0.1% |
 
+![Feature Importance](/feature_importance.png)
 ---
 
 ## 📈 Key Findings
