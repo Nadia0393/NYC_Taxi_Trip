@@ -210,6 +210,16 @@ Evaluation
 - XGBoost implementation
 
 ---
+## Project Highlights
+
+- Built an end-to-end PySpark ML pipeline.
+- Processed over **1.45 million** taxi trips.
+- Engineered a Haversine distance feature, which became the most important predictor.
+- Removed only **0.15%** of unrealistic records through data cleaning.
+- Achieved:
+  - RMSE: **417.62 seconds**
+  - MAE: **305.56 seconds**
+  - R²: **0.589**
 
 ## 👨‍💻 Author
 
